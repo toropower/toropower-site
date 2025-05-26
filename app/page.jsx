@@ -19,7 +19,7 @@ export default function Home() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="mt-6 max-w-2xl text-lg md:text-xl text-gray-300"
         >
-          AI-Powered Data Modernization for Industry Leaders
+          AI-Powered Data Modernization for Industry Leaders!
         </motion.p>
       </section>
 
